@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Crazy 8-Ball 
 
-Author: (TODO: your name)
+Author: Jose Lima
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This is an arcade version of the classic 8-Ball Pool game. You have 10 shots in total to get as much points as possible, every ball give you a certain number of points.
 
 Screen Shot:
 
@@ -10,7 +10,13 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+* Press Q and E to rotate cue stick. 
+
+* Press Space to charge power and shoot. 
+
+* Avoid getting the cue and eight ball into a hole to avoid ending the game early. 
+
+* The big pink ball does not lose velocity and is worth the most points!
 
 ## Extra Credit
 
