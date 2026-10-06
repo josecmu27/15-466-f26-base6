@@ -105,7 +105,7 @@ PlayMode::PlayMode() : scene(*game_scene) {
 
 	// Add velocity to non stoping obstacle ball
 	obstacle_ball->velocity.x = ObstacleBallSpeed;
-	obstacle_ball->velocity.x = ObstacleBallSpeed;
+	obstacle_ball->velocity.y = ObstacleBallSpeed;
 
 }
 
